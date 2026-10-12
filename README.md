@@ -2,4 +2,8 @@
 # our git team
 
 ## Team members
-Padiwarudda s
+Padiwarudda 
+Pannatat
+
+## About us 
+we just
